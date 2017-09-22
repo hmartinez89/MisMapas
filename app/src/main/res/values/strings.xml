@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MisMapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="item1_mainActivity">Parque Fundidora</string>
+    <string name="item2_mainActivity">Estadio BBVA</string>
+    <string name="item3_mainActivity">El Volcán</string>
+    <string name="item4_mainActivity">Arena Monterrey</string>
+    <string name="extra_intent_mainActivity">"lugar"</string>
+    <string name="latitud_item1_mainActivity">25.67870370763542</string>
+    <string name="longitud_item1_mainActivity">-100.2843011</string>
+    <string name="latitud_item2_mainActivity">25.669214707632175</string>
+    <string name="longitud_item2_mainActivity">-100.24442910000005</string>
+    <string name="latitud_item3_mainActivity">25.722519807650375</string>
+    <string name="longitud_item3_mainActivity">-100.31202250000001</string>
+    <string name="latitud_item4_mainActivity">25.68085500763613</string>
+    <string name="longitud_item4_mainActivity">-100.288276</string>
+</resources>
